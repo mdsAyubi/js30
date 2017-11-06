@@ -14,3 +14,10 @@
 * `transform-origin` for the origin of transformation
 * `transform` for actual transformation
 * `transition-timing-function` for the effects. One of the option is `cubic-bezier`
+
+## Lesson 3 - CSS Variables
+
+* Can change with JS
+* Declared on some element e.g `:root`
+* `this.dataset` on elements : an object than contains all the data attributes
+* Can be scoped as well. The more specific wins.
